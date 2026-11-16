@@ -6,8 +6,8 @@ on:
       - v1.1
 
 env:
-  APP_IMAGE_NAME: alkselsv/devops-example-app
-  CADDY_IMAGE_NAME: alkselsv/devops-example-caddy
+  APP_IMAGE_NAME: zxc12asd34qwe56/devops-example-app
+  CADDY_IMAGE_NAME: zxc12asd34qwe56/devops-example-caddy
 
 jobs:
   docker:
