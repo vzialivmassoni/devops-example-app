@@ -3,7 +3,7 @@ name: release
 on:
   create:
     tags:
-      - v*
+      - v1.1
 
 env:
   APP_IMAGE_NAME: alkselsv/devops-example-app
